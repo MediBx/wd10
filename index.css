@@ -9,3 +9,8 @@ body {
 ul {
     background-color: cornsilk;
 }
+
+p {
+    background-color: rgb(224, 171, 153);
+    padding: 20px;
+}
