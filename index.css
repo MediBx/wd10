@@ -10,6 +10,11 @@ ul {
     background-color: cornsilk;
 }
 
+
+li {
+    border: 2px red solid;
+}
+
 p {
     background-color: rgb(224, 171, 153);
     padding: 20px;
